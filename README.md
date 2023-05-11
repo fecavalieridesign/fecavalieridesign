@@ -1,4 +1,4 @@
- Welcome, i'am Felipe Cavalieri😆
+ Welcome, i'm Felipe Cavalieri😆
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50a8e3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Felipe+Cavalieri;I'm+21+years+old;I'm+from+Brazil;+:%29)](https://git.io/typing-svg)
